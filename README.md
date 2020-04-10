@@ -1,5 +1,5 @@
 # GitHub
-Código da aplicação de listar repositórios do gitHub
+A aplicação web serve para mostrar todas as ações feitas em um determinado repositório. Já a versão mobile exibe todos os repositórios que um determinado usuário favoritou. =)
 
 
 |APP | WEB | 
